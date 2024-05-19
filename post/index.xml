@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on shuuuhai</title>
-    <link>https://shuuuhai.github.io/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on shuuuhai</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://shuuuhai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 21:29:13 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Mon, 13 May 2024 21:29:13 +0800</pubDate>
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
