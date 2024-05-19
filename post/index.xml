@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on shuuuhai</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://shuuuhai.github.io/post/</link>
     <description>Recent content in Posts on shuuuhai</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 May 2024 21:29:13 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 May 2024 17:27:39 +0800</lastBuildDate>
+    <atom:link href="https://shuuuhai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/post/my-first-post/</link>
-      <pubDate>Mon, 13 May 2024 21:29:13 +0800</pubDate>
-      <guid>http://localhost:1313/post/my-first-post/</guid>
-      <description></description>
+      <title>用hugo搭建博客</title>
+      <link>https://shuuuhai.github.io/post/240519/</link>
+      <pubDate>Sun, 19 May 2024 17:27:39 +0800</pubDate>
+      <guid>https://shuuuhai.github.io/post/240519/</guid>
+      <description>前言 搭建一个独立的博客系统，分享自己的写作和技术，是一个很棒的事情。hugo基于go语言开发，是世界上最快的搭建博客的框架，上手也很简单。 h</description>
     </item>
   </channel>
 </rss>

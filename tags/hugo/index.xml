@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shuuuhai</title>
-    <link>https://shuuuhai.github.io/</link>
-    <description>Recent content on shuuuhai</description>
+    <title>Hugo on shuuuhai</title>
+    <link>https://shuuuhai.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on shuuuhai</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 19 May 2024 17:27:39 +0800</lastBuildDate>
-    <atom:link href="https://shuuuhai.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://shuuuhai.github.io/about/</link>
-      <pubDate>Sun, 19 May 2024 10:30:35 +0800</pubDate>
-      <guid>https://shuuuhai.github.io/about/</guid>
-      <description>欢迎来到我的博客。 Introduction 我是一名程序员，2015年研究生毕业。后来有了几份工作经历，主要做后端开发。用过的语言有PHP,C/C++,GOLANG</description>
-    </item>
+    <atom:link href="https://shuuuhai.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>用hugo搭建博客</title>
       <link>https://shuuuhai.github.io/post/240519/</link>
